@@ -1,0 +1,19 @@
+
+h1{
+    font-size: 2vw;
+    background-color: #d9f2ff;
+    padding: 15px;
+}
+p{
+    font-size: 2vw;
+    padding: 10px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+h2{
+    font-size: 3vw;
+    background-color: #e6ffe6;
+    padding: 10px;
+}
